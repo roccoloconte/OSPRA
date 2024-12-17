@@ -1,3 +1,0 @@
-#### OSPRA (Obtain the Shortest Path from REST APIs)
-##### Given a source and a destination, obtains the shortest path with its estimated arrival time and its estimated distance from 8 REST APIs (Apple Maps, ArcGIS, Bing Maps, HERE Maps, Google Maps, Mapbox, MapQuest, TomTom).
-##### The following software is very different but I took inspiration from the [routingpy](https://github.com/gis-ops/routingpy) library. It uses different REST APIs and it is used for different purposes. Also, this software needs the [flexpolyline](https://github.com/heremaps/flexible-polyline) library, which was slightly modified to handle NumPy arrays.
